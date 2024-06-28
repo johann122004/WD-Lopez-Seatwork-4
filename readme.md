@@ -64,15 +64,20 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  - The project is the 4th seatwork in Web Design with Client Side Scripting.
 - Whats the purpose
+  - The purpose of the project is to educate in how to create a website that displays a product or an object with different types of features.
 - What are key components
+  - The key components that are used in this website are that it is a multi-page website, that it displays features of a product or an object, and simple animations such as the buttons in the header and the landing page.
 - What technology used and how it is used
+  - The technology that is used are HTML and CSS. HTML is used to makeup the main body of the website, while CSS is used to design the contents of the website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website
+- Multi-Page Website
 - Features Website
+- Animations
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -123,6 +128,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Low Rank Armor | To act as a source for an image for one of the feature pages | https://www.ign.com/wikis/monster-hunter-world/Low_Rank_Armor |
+| Low Rank Armor | To act as a source for an image for one of the feature sections | https://www.ign.com/wikis/monster-hunter-world/Low_Rank_Armor |
 | CSS background-position Property |for positioning the image as background for the features | https://www.w3schools.com/cssref/pr_background-position.php |
 | Monster Hunter: World | To act as logo for the first feature page | https://logos.fandom.com/wiki/Monster_Hunter:_World |
+| How to Install Mods in Half-Life | For source of the image for one of the feature sections | https://gamerant.com/half-life-how-install-mods/ |
+| Half-Life could have been called Fallout or Crysis, developer reveals | For source of the image for one of the feature sections | https://hitmarker.net/news/half-life-could-have-been-called-fallout-or-crysis-developer-reveals-2380671 |
+| Half-Life Multiplayer Screenshots | For source of the image for one of the feature sections | https://www.bluesnews.com/screenshots/hl/multiplayer/shot1.html |
