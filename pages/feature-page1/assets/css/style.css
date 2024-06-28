@@ -104,3 +104,19 @@ section.left2{
         font-size: 25px;
     }
 }
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 125px;
+    background-image: url(../img/loading-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    & p{
+        color: white;
+        margin: 20px;
+        font-size: 20px;
+        text-decoration: underline overline;
+    }
+}
