@@ -40,6 +40,9 @@
         <li>
           <a href="#technology">Technology</a>
         </li>
+        <li>
+          <a href="#deployment">Deployment</a>
+        </li>
       </ol>
     </li>
     <li>
@@ -68,15 +71,18 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Features Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Deployment
+#### Link:
+
+https://johann122004.github.io/WD-Lopez-Seatwork-4/
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +123,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Low Rank Armor | To act as a source for an image for one of the feature pages | https://www.ign.com/wikis/monster-hunter-world/Low_Rank_Armor |
+| CSS background-position Property |for positioning the image as background for the features | https://www.w3schools.com/cssref/pr_background-position.php |
