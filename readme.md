@@ -125,3 +125,4 @@ WD-ProjectName
 |-|-|-|
 | Low Rank Armor | To act as a source for an image for one of the feature pages | https://www.ign.com/wikis/monster-hunter-world/Low_Rank_Armor |
 | CSS background-position Property |for positioning the image as background for the features | https://www.w3schools.com/cssref/pr_background-position.php |
+| Monster Hunter: World | To act as logo for the first feature page | https://logos.fandom.com/wiki/Monster_Hunter:_World |
