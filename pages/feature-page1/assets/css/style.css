@@ -19,3 +19,13 @@ header {
         padding-right: 125px;
     }
 }
+
+section.logo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-image: url(../img/background-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
