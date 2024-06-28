@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(255, 115, 0);
+    z-index: 999;
+    & a{
+        color: white;
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+        padding-left: 125px;
+        padding-right: 125px;
+        transition: .25s ease-in-out;
+        font-weight: bolder;
+        &:hover{
+            text-shadow: 0 0 10px rgb(0, 255, 0);
+        }
+    }
+}
