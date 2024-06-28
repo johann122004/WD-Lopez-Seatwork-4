@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display:flex;
+    justify-content: space-between;
+    padding: .8rem 5vw 0;
+    align-items: center;
+    position: fixed;
+    width: 90vw;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(198, 213, 255);
+    z-index: 999;
+}
