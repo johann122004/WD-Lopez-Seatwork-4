@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body{
+    background-color: black;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -28,4 +32,75 @@ section.logo{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+section.left1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../img/left-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 500px;
+    opacity: 75%;
+    & h1, p{
+        margin: 50px;
+        color: black;
+        margin-top: 25px;
+        font-weight: bold;
+    }
+    & h1{
+        font-size: 75px;
+    }
+    & p{
+        font-size: 25px;
+    }
+}
+
+section.right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../img/right-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    opacity: 75%;
+    & h1, p{
+        margin: 50px;
+        color: white;
+        margin-top: 25px;
+        font-weight: bold;
+    }
+    & h1{
+        font-size: 75px;
+    }
+    & p{
+        font-size: 25px;
+    }
+}
+
+section.left2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(../img/2left-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 75%;
+
+    height: 500px;
+    & h1, p{
+        margin: 50px;
+        color: black;
+        margin-top: 25px;
+        font-weight: bold;
+    }
+    & h1{
+        font-size: 75px;
+    }
+    & p{
+        font-size: 25px;
+    }
 }
